@@ -17,4 +17,10 @@ class wancront extends Controller
             "title" => "Masuk"
         ]);
     }
+
+    public function about() {
+        return view('about', [
+            "title" => "About"
+        ]);
+    }
 }

@@ -17,3 +17,5 @@ use App\Http\Controllers\wancront;
 Route::get('/', [wancront::class, 'index']);
 
 Route::get('/masuk', [wancront::class, 'signin']);
+
+Route::get('/about', [wancront::class, 'about']);

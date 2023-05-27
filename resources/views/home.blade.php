@@ -11,7 +11,7 @@
 			        </button>
 		        </a>
 				<br>
-				<a href="/posts" style="text-decoration:none; color:white;">Lewati</a>
+				<a href="/galeri" style="text-decoration:none; color:white;">Lewati</a>
 	        </div>
          </div>
 @endsection
