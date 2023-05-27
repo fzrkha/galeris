@@ -18,6 +18,9 @@
               <a class="dropdown-item {{ ($title === "Content Categories") ? 'active' : '' }}" href="/categories">Categories</a>
             </ul>
             </li> !-->
+            <li class="nav-item">
+              <a class="nav-link {{ ($title === "Posts") ? 'active' : '' }}" href="/galeri">Posts</a>
+            </li>
           <li class="nav-item">
               <a class="nav-link {{ ($title === "About") ? 'active' : '' }}" href="/about">About</a>
           </li>

@@ -11,4 +11,10 @@ class wancront extends Controller
             "title" => "Home"
         ]);
     }
+
+    public function signin() {
+        return view('signin', [
+            "title" => "Masuk"
+        ]);
+    }
 }
