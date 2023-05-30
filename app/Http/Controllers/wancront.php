@@ -18,6 +18,12 @@ class wancront extends Controller
         ]);
     }
 
+    public function gallery() {
+        return view('gallery', [
+            "title" => "Gallery"
+        ]);
+    }
+
     public function about() {
         return view('about', [
             "title" => "About"

@@ -11,7 +11,7 @@
 			        </button>
 		        </a>
 				<br>
-				<a href="/galeri" style="text-decoration:none; color:white;">Lewati</a>
+				<a href="/gallery" style="text-decoration:none; color:white;">Lewati</a>
 	        </div>
          </div>
 @endsection

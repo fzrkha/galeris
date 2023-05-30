@@ -18,4 +18,6 @@ Route::get('/', [wancront::class, 'index']);
 
 Route::get('/masuk', [wancront::class, 'signin']);
 
+Route::get('/gallery', [wancront::class, 'gallery']);
+
 Route::get('/about', [wancront::class, 'about']);
