@@ -5,3 +5,8 @@
 	padding-bottom: 20%;
 	color: #FFF;
 }
+
+.col-md-4 {
+	background-color: darkgray;
+	padding: 5px 0 0 5px;
+}
